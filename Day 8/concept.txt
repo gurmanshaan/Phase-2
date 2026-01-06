@@ -1,0 +1,23 @@
+Topic: Arrays - Thinking in patterns (Max/Min/Count)
+
+Most array problems are just:
+- Keep a best value
+- Compare
+- Update
+- Return
+
+Pattern to remember (VERY IMPORTANT)
+Initialize → Loop → Compare → Update → Return
+
+Pattern you must remember:
+
+For max/min problems:
+
+Initialize with first element
+Loop from second element
+Update only when condition is true
+Return result
+
+I understand now:
+- Why else is not needed in max/min - we are updating the value in if condition only
+- Why we update only on condition - we are checking the min/max condition with array element , if it is true then update otherwise no update
