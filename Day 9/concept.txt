@@ -1,0 +1,39 @@
+Topic: Accumulator Pattern (Sum, Average, Conditional Sum)
+
+Learn how to:
+Accumulate values while looping
+
+This pattern is used in:
+-Sum problems
+-Average
+-Conditional totals
+-Scores, totals, counters
+
+If you get this → many problems become easy.
+
+Pattern to remember (VERY IMPORTANT)
+Initialize accumulator
+Loop through array
+Update accumulator
+Return accumulator
+
+now fully understand the Accumulator Pattern:
+
+Initialize
+Loop
+Condition (optional)
+Accumulate
+Return
+
+This single pattern is used in:
+
+Sums
+Counts
+Scores
+Totals
+Analytics
+Backend logic
+Interview questions
+
+I understand the accumulator pattern and where to use it.
+Used in Sum, Counters, Scores, Analytics,Average
