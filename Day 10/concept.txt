@@ -1,0 +1,18 @@
+Topic: Frequency Counting Pattern (Objects as Maps)
+🎯 Goal of Day 10
+
+Learn how to:
+Count how many times something appears
+This pattern is used in:
+Character counting
+Duplicates
+Anagrams
+Logs & analytics
+Many string/array interview 
+
+Core Pattern (MEMORISE THIS)
+Create empty object
+Loop through data
+If key exists → increment
+Else → set to 1
+Return object or value
